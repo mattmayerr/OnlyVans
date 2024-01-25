@@ -1,0 +1,39 @@
+#logo img{
+    width: 125px;
+}
+
+#vans-intro {
+    text-align: center;
+}
+
+#vans1 img{
+    float: left;
+    width: 19%;
+    padding: 5px;
+}
+
+#vans2 img{
+    float: left;
+    width: 19%;
+    padding: 5px;
+
+}
+
+#vans3 img{
+    float: left;
+    width: 19%;
+    padding: 5px;
+}
+
+#vans4 img{
+    float: left;
+    width: 19%;
+    padding: 5px;
+}
+
+#vans5 img{
+    float: left;
+    width: 19%;
+    padding: 5px;
+}
+
